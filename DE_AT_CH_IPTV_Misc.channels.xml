@@ -702,8 +702,6 @@
   <channel id="402">1:0:16:192:2:85:C00000:0:0:0:</channel>
   <channel id="402">1:0:16:192:2:85:21:0:0:0:</channel>
   <channel id="402">1:0:16:192:2:85:FFFF0000:0:0:0:</channel>
-  <channel id="331">1:0:19:8B:2:85:FFFF0000:0:0:0:</channel>
-  <channel id="331">1:0:19:8B:2:85:21:0:0:0:</channel>
   <channel id="330">1:0:19:6F:D:85:C00000:0:0:0:</channel>
   <channel id="330">1:0:19:6F:D:85:21:0:0:0:</channel>
   <channel id="330">1:0:19:6F:D:85:FFFF0000:0:0:0:</channel>
