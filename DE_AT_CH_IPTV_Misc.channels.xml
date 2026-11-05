@@ -692,9 +692,9 @@
   <channel id="DE3200001RI">1:0:1:76C4:40E:1:C00000:0:0:0:</channel>
   <channel id="DEBA15000227H">1:0:1:6E40:431:1:C00000:0:0:0:</channel>
   <channel id="DEAJ0500428A">1:0:1:6E44:431:1:C00000:0:0:0:</channel>
-  <channel id="DEBD800001S4">1:0:1:802:C008:F101:FFFF0000:0:0:0:</channel>
   <channel id="DE2200005GX">1:0:1:304:C003:F101:FFFF0000:0:0:0:</channel>
   <channel id="DE2200005GX">1:0:1:445F:453:1:C00000:0:0:0:</channel>
+  <channel id="DEBD800001S4">1:0:1:802:C008:F101:FFFF0000:0:0:0:</channel>
   <channel id="DEBD1900002CB">1:0:1:6E46:431:1:C00000:0:0:0:</channel>
   <channel id="DE21000031Z">1:0:1:77C1:40A:1:C00000:0:0:0:</channel>
   <channel id="DE2800004RR">1:0:1:76C3:40E:1:C00000:0:0:0:</channel>
